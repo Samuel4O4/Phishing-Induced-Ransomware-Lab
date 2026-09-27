@@ -240,3 +240,24 @@ The following files are included in this repository as part of the simulated att
 - Disabled endpoint protections (Defender, Firewall) combined with hidden file extensions significantly lowered the barrier for successful phishing-based compromise.
 - Network-layer visibility (Wireshark) and host-layer visibility (Elastic/Windows Event Logs) together provided full-chain evidence of the attack, from delivery to impact.
 - Mapping the incident to MITRE ATT&CK helps standardize reporting and supports building future detections around the same tactics and techniques.
+
+---
+
+# 📖 Full Documentation
+
+The complete walkthrough, explanations, screenshots, and attack demonstrations are available on Notion.
+
+**🔗 Notion Documentation:**  
+> (https://app.notion.com/p/Attack-Defense-Scenario-Phishing-Induced-Ransomware-becd8b0f2d9882c0b6e401c572e57a96?source=copy_link)
+
+---
+
+# 👨‍💻 Author
+
+## Samuel4O4
+
+*Cybersecurity Geek*
+
+---
+
+⭐ **If you found this project useful, consider giving the repository a star!**
